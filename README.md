@@ -14,8 +14,5 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,ros,opencv,java,git&theme=dark" />
-</p>
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gazebo/gazebo-original-wordmark.svg" title="Gazebo" alt="gazebo" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gazebo/gazebo-original-wordmark.svg" title="Gazebo" alt="gazebo" width="48" height="48" style="vertical-align: top; margin-top: 2px;"/>
 </p>
