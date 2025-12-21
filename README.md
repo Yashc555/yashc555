@@ -6,15 +6,13 @@
 </p>
 
 ### Stats
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashc555&theme=vision-friendly-dark" alt="GitHub Streak" height="170"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashc555&layout=compact&theme=vision-friendly-dark" alt="Top Langs" height="170"/>
-  </a>
-</p>
+| | |
+| --- | --- |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yashc555&theme=vision-friendly-dark)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashc555&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) |
+
+</div>
 
 
 ### Languages and Tools
