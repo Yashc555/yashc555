@@ -1,7 +1,9 @@
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Yash</h1>
 
-<p align="center"> <a href="https://www.linkedin.com/in/yash2025/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> <a href="mailto:yashc2025@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a> </p>
-
+<p align="center">
+<a href="https://www.linkedin.com/in/yash2025/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="mailto:yashc2025@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
+</p>
 
 ### 🔥 &nbsp; Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yashc555&theme=vision-friendly-dark)](https://git.io/streak-stats)
