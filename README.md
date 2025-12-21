@@ -5,7 +5,7 @@
 <a href="mailto:yashc2025@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
 </p>
 
-### &nbsp; Stats :
+### &nbsp;Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yashc555&theme=vision-friendly-dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashc555&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
